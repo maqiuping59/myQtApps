@@ -1,0 +1,2 @@
+# myQtApps
+some Qt Projects
